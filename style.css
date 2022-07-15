@@ -55,13 +55,15 @@ header div p{
 .left-side{
     margin-top: 180px; /*old-180 */
     padding-right: 60px;
-    
- 
 }
 .direct-help{
 }
 .right-side{
     margin-top: 170px;
+}
+iframe{
+    box-shadow: 5px 5px 20px gray;
+    border-radius: 5px;
 }
  h2{
     margin: 0;
